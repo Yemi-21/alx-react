@@ -1,8 +1,3 @@
-<<<<<<< HEAD
-Create a basic app named dashboard using create-react-app in your task_0 directory
-
-You will need a favicon and the Holberton logo. Download them and add them to the src/ directory under dashboard/
-=======
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -73,4 +68,3 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
->>>>>>> 8fae735219cf0349f3410b2ae1eef32fbdd9d4d9
